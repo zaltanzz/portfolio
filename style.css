@@ -1,0 +1,62 @@
+* {
+  font-family: "Lexend", sans-serif !important;
+}
+header {
+  background-color: #1b3c59;
+}
+
+.navbar-brand {
+  color: white !important;
+}
+.nav-link {
+  color: white !important;
+}
+.home {
+  background: url(./web-development.jpg);
+  height: 90vh;
+  width: 100%;
+  background-size: cover;
+  filter: brightness(0.8);
+}
+.home-container {
+  height: 90vh;
+}
+.name {
+  font-weight: bold;
+  font-size: 51px;
+  letter-spacing: 3px;
+}
+.post {
+  font-weight: bold;
+  background: #b83a63;
+  padding: 0 15px;
+}
+.projects{
+    padding-top: 75px;
+}
+.projectHeading{
+    font-size: 25px;
+    font-family: 'Lora', serif!important;
+    font-weight: 700;
+}
+.mainHeading{
+    margin-bottom: 80px;
+    font-family: 'Lora', serif!important;
+    font-weight: bold;
+}
+.viewBtn{
+    background: #932e4f;
+    border: none;
+}
+.viewBtn:hover{
+    transform: scale(1.1);
+    background: #932e4f;
+    border: none;
+    transition: 500ms;
+}
+.projectImg{
+    border-radius: 9px;
+}
+.showcase{
+    margin-bottom: 50px;
+}
